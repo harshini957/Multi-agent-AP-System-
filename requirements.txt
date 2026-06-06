@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-core
+langchain-openai
+httpx
+pydantic
+python-dotenv
+rich
+fastapi
+uvicorn
+redis
